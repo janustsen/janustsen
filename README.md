@@ -6,7 +6,7 @@
 
 I build software by supervising a fleet of AI coding agents. My firstmate supervisor sends Claude and Codex workers into isolated Git worktrees. They implement changes, run automated reviews, and verify the result in the real app. Pull requests merge once the checks pass, within the approval rules I set for each project.
 
-I study economics at Stanford and co-founded Verdnt Group. I work on the product decisions and the systems behind them.
+I study economics at Stanford and co-founded Verdnt Group.
 
 ### What I build
 
