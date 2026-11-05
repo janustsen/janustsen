@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Janus Tsen. One supervisor dispatches parallel coding agents through review and check gates into a shared main line." src="assets/banner-light.svg" width="1280" height="460">
+  <img alt="Janus Tsen. One supervisor dispatches parallel coding agents through review and check gates into a shared main line." src="assets/banner-light.svg" width="1198">
 </picture>
 
 I build software by supervising a fleet of AI coding agents. My firstmate supervisor sends Claude and Codex workers into isolated Git worktrees. They implement changes, run automated reviews, and verify the result in the real app. Pull requests merge once the checks pass, within the approval rules I set for each project.
